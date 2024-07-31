@@ -148,7 +148,7 @@ export const HeaderContainer = styled.div`
 
   @media (max-width: 1024px) {
     padding: 0.8rem 1rem;
-    box-shadow: 0px 0px 1px rgba(0, 0, 0, 0.84);
+    box-shadow: 0px 0px 1px rgba(0, 0, 0, 0.82);
     min-height: 46px;
     background-color: #fdfdfd;
 
